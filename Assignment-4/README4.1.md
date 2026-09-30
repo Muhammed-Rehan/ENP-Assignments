@@ -65,5 +65,10 @@ Bus Status        : SUITABLE
   - Radiation Susceptibility: VERY LOW
   - Recommended Use: Industrial automation, harsh EMI environments
 
-gcc -Wall -o activity1 activity1.c
-./activity1
+
+---
+
+```bash
+gcc assignment4.1.c
+./a.out
+```

@@ -49,3 +49,10 @@ Vdiff = 2.00 V
 
 CAN BUS STATE : DOMINANT
 ---------------------------------------------------
+````
+---
+
+```bash
+gcc assignment4.2.c
+./a.out
+```
